@@ -1,6 +1,6 @@
-# AguaClara Water Filtration Data App
+# AguaClara Plant Operation Survey Tracking (POST) App
 
-Welcome to the repository of the AguaClara Water Filtration Data App, a solution aims to streamline the way water operators in Honduras monitor and analyze water filtration data. Developed with React Native using Expo, this application serves as a tool in the hands of water plant operators, enabling them to submit various metrics through a flexible, user-friendly, and offline-capable survey form, directly from their Android devices.
+Welcome to the repository of the AguaClara POST App, a solution that aims to streamline the way water operators in Honduras monitor and analyze water filtration data. Developed with React Native using Expo, this application serves as a tool in the hands of water plant operators, enabling them to submit various metrics through a flexible, user-friendly, and offline-capable survey form, directly from their Android devices.
 
 ## Features
 
